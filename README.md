@@ -94,11 +94,20 @@ choices[0].message.content
 ```
 ---
 ## ⚙️ Tech Stack
-Laravel 12
 
-PHP
+- `Laravel 12`
 
-Laravel HTTP Client
+- `PHP`
 
-OpenAI GPT-3.5-Turbo
+- `Laravel HTTP Client`
 
+- `OpenAI GPT-3.5-Turbo`
+
+---
+## 🧑‍💻 Developer
+
+  
+
+**Made by**: Jahid Hasan  
+
+**Stack**: Laravel 12, PHP, OpenAI GPT-3.5-Turbo, Laravel HTTP Client
